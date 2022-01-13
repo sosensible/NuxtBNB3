@@ -1,0 +1,3 @@
+#MasteringNuxtBnb
+installed
+-nuxt
